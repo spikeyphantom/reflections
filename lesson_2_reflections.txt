@@ -14,9 +14,12 @@ organized? How would branches help?
 A: we make save point to avoid mistake in master branches
 
 How do the diagrams help you visualize the branch structure?
+A: its can understand about where branch one is different with branch two. and we now what id is the unreachable 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+A: because its important to understand about two job with become one
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+A: i dont know. i hate sarah.. she speak to fast.. so i cant understand what her say
